@@ -21,7 +21,7 @@ Bu rehber, MintWords projesini Termux ve Kali Linux üzerinde nasıl kurup çal�
 `cd MintWords`
 
 4. MintWords’u çalıştırın:  
-`python mintwords.py`  
+`python MintWords.py`  
 
 
 ## Kali Linux Üzerinde MintWords Nasıl Çalıştırılır?
@@ -37,4 +37,4 @@ Bu rehber, MintWords projesini Termux ve Kali Linux üzerinde nasıl kurup çal�
 `cd MintWords`  
 
 4. MintWords’u çalıştırın:  
-`python3 mintwords.py`  
+`python3 MintWords.py`  
