@@ -20,10 +20,7 @@ Bu rehber, MintWords projesini Termux ve Kali Linux üzerinde nasıl kurup çal�
 3. Proje dizini içine girin:  
 `cd MintWords`
 
-4. Gerekli Python kütüphanelerini yükleyin:  
-`pip install -r requirements.txt`
-
-5. MintWords’u çalıştırın:  
+4. MintWords’u çalıştırın:  
 `python mintwords.py`  
 
 
@@ -39,8 +36,5 @@ Bu rehber, MintWords projesini Termux ve Kali Linux üzerinde nasıl kurup çal�
 3. Proje dizinine gidin:  
 `cd MintWords`  
 
-4. Gerekli Python kütüphanelerini yükleyin:  
-`pip3 install -r requirements.txt`  
-
-5. MintWords’u çalıştırın:  
+4. MintWords’u çalıştırın:  
 `python3 mintwords.py`  
