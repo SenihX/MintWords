@@ -1,0 +1,3 @@
+## Lisans
+Bu proje [Apache Lisansı 2.0](./LICENSE) kapsamında lisanslanmıştır.
+Detaylar için `License` dosyasına bakabilirsiniz.
