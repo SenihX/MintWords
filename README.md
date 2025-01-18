@@ -35,6 +35,7 @@ Bu rehber, MintWords projesini Termux ve Kali Linux üzerinde nasıl kurup çal�
 4. MintWords’u çalıştırın:  
 `python3 MintWords.py` 
 
+____________________________________________
 
 keyworlist
 
