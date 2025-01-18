@@ -36,4 +36,26 @@ Bu rehber, MintWords projesini Termux ve Kali Linux üzerinde nasıl kurup çal�
 `python3 MintWords.py` 
 
 
- #wordlist #keyworlist
+keyworlist
+
+wordlist generator
+
+wordlist tool
+
+password cracking
+
+security testing
+
+penetration testing
+
+brute force
+
+dictionary attack
+
+password security
+
+hacking tools
+
+cybersecurity tools
+
+wordlist tool
