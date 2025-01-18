@@ -1,4 +1,4 @@
-# MintWords
+www# MintWords
  MintWords: MintWords is a powerful tool that allows users to create personalized and effective wordlists. It allows users to create custom wordlists that fit their needs, especially for use in cybersecurity, password testing, and security testing.
  Haklısınız, dediğiniz gibi kodları **normal metin** formatında yazacağım. İşte güncellenmiş hali: 
 
@@ -37,4 +37,7 @@ Bu rehber, MintWords projesini Termux ve Kali Linux üzerinde nasıl kurup çal�
 `cd MintWords`  
 
 4. MintWords’u çalıştırın:  
-`python3 MintWords.py`  
+`python3 MintWords.py` 
+
+
+ #wordlist #keyworlist
