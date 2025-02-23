@@ -78,11 +78,11 @@ def select_language():
 def display_message(language, key):
     messages = {
         "Türkçe": {
-            "welcome": "MintWords'e Hoş Geldiniz - SenihX tarafından tasarlandı!",
+            "welcome": "MintWords'e Hoş Geldiniz - Mr.SenihX tarafından tasarlandı!",
             "menu": "Seçenekler:\n1 - Kişiye özel wordlist oluştur\n2 - Rastgele wordlist oluştur\nSeçiminizi yapın: ",
             "ad_prompt": "Ad veya takma ad girin: ",
             "yil_prompt": "Doğum yılınızı girin (ör. 1990): ",
-            "kelimeler_prompt": "Anahtar kelimeleri aralarına virgül koyarak girin (ör. araba,bilgisayar): ",
+            "kelimeler_prompt": "Anahtar kelimeleri aralarına virgül koyarak girin ve arada boşluk bırakmayın (ör. araba,bilgisayar): ",
             "num_words_prompt": "Wordlist toplam kaç kelime içersin (varsayılan 100): ",
             "filename_prompt": "Wordlist dosyasının adını girin (varsayılan: mintwords.txt): ",
             "length_prompt": "Rastgele kelimelerin uzunluğunu girin (varsayılan 8): ",
@@ -91,7 +91,7 @@ def display_message(language, key):
             "success": "Wordlist başarıyla kaydedildi: {filename}"
         },
         "Русский": {
-            "welcome": "Добро пожаловать в MintWords - Создано SenihX!",
+            "welcome": "Добро пожаловать в MintWords - Создано Mr.SenihX!",
             "menu": "Опции:\n1 - Создать персонализированный список\n2 - Создать случайный список\nВаш выбор: ",
             "ad_prompt": "Введите имя или псевдоним: ",
             "yil_prompt": "Введите ваш год рождения (например, 1990): ",
@@ -104,7 +104,7 @@ def display_message(language, key):
             "success": "Список успешно сохранен: {filename}"
         },
         "English": {
-            "welcome": "Welcome to MintWords - Designed by SenihX!",
+            "welcome": "Welcome to MintWords - Designed by Mr.SenihX!",
             "menu": "Options:\n1 - Create personalized wordlist\n2 - Create random wordlist\nYour choice: ",
             "ad_prompt": "Enter your name or nickname: ",
             "yil_prompt": "Enter your birth year (e.g., 1990): ",
